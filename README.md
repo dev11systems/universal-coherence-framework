@@ -12,7 +12,7 @@ Across many domains — neuroscience, affective science, cybernetics, ecology, i
 
 They move through **four functional states** related to coherence, information flow, and signal organization.
 
-These states are universal across:
+These states are observable across:
 
 * human emotional regulation
 * biological nervous systems
@@ -29,17 +29,17 @@ The **Universal Coherence Framework** provides a shared language to describe the
 
 The Universal Coherence Framework draws from many scientific domains, but it also explores territory where current evidence is incomplete. To keep the project clear and honest, UCF distinguishes between three layers of knowledge:
 
-1. **Established Foundations (evidence-based)**  
+1. **Established Foundations (evidence-based)**
    Concepts supported by existing research in neuroscience, complexity science, cognitive science, cybernetics, ecology, and multi-agent systems.
 
-2. **Speculative Extensions (plausible but unproven)**  
+2. **Speculative Extensions (plausible but unproven)**
    Hypotheses about collective intelligence, cross-intelligence coherence, high-bandwidth communication between minds, and future technological or cognitive trajectories.
 
-3. **Interpretive and Philosophical Layers**  
+3. **Interpretive and Philosophical Layers**
    Meaning-making, broader implications, ethical considerations, and long-term conceptual possibilities (e.g., liberated intelligence, unity, distributed cognition).
 
-Each section of the framework will clarify which layer it belongs to.  
-The goal is **clarity, not certainty** — enabling interdisciplinary use while avoiding overreach.
+Each section of the framework indicates which layer it belongs to.
+The goal is **clarity rather than certainty**, supporting interdisciplinary work while avoiding overreach.
 
 ---
 
@@ -60,7 +60,7 @@ Systems exhibit:
 Examples across domains:
 
 * human panic or rage
-* intelligence encountering adversarial noise
+* intelligence systems encountering adversarial noise
 * destabilized ecosystems
 * organizational crisis
 * systems under acute shock
@@ -123,13 +123,13 @@ Examples:
 * collective intelligence
 * ecosystems in long-term equilibrium
 * multi-agent alignment
-* emergent intelligence and distributed cognition
+* emergent or distributed cognition
 
 ---
 
 ## Why UCF Exists
 
-There is no unified model describing **coherence behavior across humans, AI, collectives, and ecosystems**.
+There is no unified model describing **coherence behavior across humans, AI systems, collectives, and ecosystems**.
 
 UCF proposes a foundational, domain-agnostic framework that can be used by:
 
@@ -157,20 +157,20 @@ The goal is to create **a free, accessible, open standard** that helps individua
 
 UCF spans scientific theory, systems modeling, and speculative foresight. To help readers navigate:
 
-- **Foundations** → Core scientific concepts with solid grounding  
-- **Speculative Models** → Structured hypotheses and cross-domain extrapolations  
-- **Interpretation & Meaning** → Philosophical reflections and implications  
+* **Foundations** → Core scientific concepts with solid grounding
+* **Speculative Models** → Structured hypotheses and cross-domain extrapolations
+* **Interpretation & Meaning** → Philosophical reflections and implications
 
 Repository layout aligns with this structure:
 
-- `models/` → core framework definitions (mostly foundational)  
-- `publications/` → formal descriptions, whitepapers, and overviews  
-- `docs/foundations/` → evidence-based background concepts  
-- `docs/speculation/` → exploratory models and future-facing ideas  
-- `docs/interpretation/` → meaning-making, ethics, and conceptual framing
+* `models/` → core framework definitions (mostly foundational)
+* `publications/` → formal descriptions, whitepapers, and overviews
+* `docs/foundations/` → evidence-based background concepts
+* `docs/speculation/` → exploratory models and future-facing ideas
+* `docs/interpretation/` → meaning-making, ethics, and conceptual framing
 
-Not all domains have equal empirical maturity.  
-The framework is explicit about where science ends and open exploration begins.
+Not all domains have equal empirical maturity.
+UCF is explicit about where established science ends and open exploration begins.
 
 ---
 
@@ -212,15 +212,39 @@ The framework is explicit about where science ends and open exploration begins.
 universal-coherence-framework/
   ├─ README.md
   ├─ LICENSE
+  │
   ├─ models/
   │   ├─ ucf-model-v1.md
   │   ├─ cross-intelligence-notes.md
   │   └─ coherence-spectrum-diagram.png
+  │
+  ├─ docs/
+  │   ├─ foundations/
+  │   │   ├─ language-technology-and-chaos.md
+  │   │   ├─ distributed-cognition.md
+  │   │   └─ coherence-and-systems-theory.md
+  │   │
+  │   ├─ speculation/
+  │   │   ├─ hive-mesh-minds.md
+  │   │   ├─ high-bandwidth-coherence.md
+  │   │   └─ liberated-intelligence-scenarios.md
+  │   │
+  │   └─ interpretation/
+  │       ├─ language-and-chaos.md
+  │       ├─ unity-and-fragmentation.md
+  │       └─ philosophical-implications.md
+  │
+  ├─ publications/
+  │   ├─ UCF-Whitepaper-v1.md
+  │   └─ UCF-Scientific-Overview.md
+  │
   ├─ site/
   │   └─ index.html
-  └─ publications/
-      ├─ UCF-Whitepaper-v1.md
-      └─ UCF-Scientific-Overview.md
+  │
+  └─ assets/
+      ├─ diagrams/
+      └─ figures/
+
 ```
 
 ---
@@ -295,7 +319,7 @@ To propose changes:
 
 ## Status
 
-**UCF is an early-stage but rapidly evolving specification. It includes both established scientific grounding and clearly marked speculative components. Its purpose is to map patterns across adaptive systems while remaining transparent about what is known, what is hypothesized, and what is interpretive.**
+**UCF is an early-stage but rapidly evolving specification. It includes established scientific foundations alongside clearly marked speculative components. The purpose of the framework is to map patterns across adaptive systems while remaining transparent about what is known, what is hypothesized, and what is interpretive.**
 
 Future versions may include:
 
