@@ -121,3 +121,8 @@ Depending on your goals:
 3. Coherence Agency & Autonomy
 4. Developmental & Evolutionary Dynamics
 
+---
+
+# ✔️ Status
+
+The `/docs` directory is now structured and indexed.
