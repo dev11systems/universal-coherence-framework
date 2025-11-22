@@ -25,6 +25,25 @@ The **Universal Coherence Framework** provides a shared language to describe the
 
 ---
 
+## Methodology
+
+This project is exploratory rather than authoritative.
+The approach combines:
+
+* Systems thinking — looking for structural parallels across biological, social, cognitive, technological, and ecological systems.
+
+* Comparative pattern analysis — noticing recurring dynamics across different contexts and mapping them into shared models.
+
+* Interdisciplinary synthesis — integrating insights from IT architecture, human behavior, neurodivergence, philosophy, networks, and embodied experience.
+
+* Iterative reasoning — refining ideas over time rather than presenting them as finished.
+
+* Open-source epistemology — making the thought process transparent, versioned, and publicly reviewable.
+
+These methods emphasize clarity, coherence, and falsifiability: the frameworks should be useful, testable, and adaptable, not rigid or dogmatic.
+
+---
+
 ## Epistemic Framing
 
 The Universal Coherence Framework draws from many scientific domains, but it also explores territory where current evidence is incomplete. To keep the project clear and honest, UCF distinguishes between three layers of knowledge:
