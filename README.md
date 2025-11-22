@@ -25,6 +25,24 @@ The **Universal Coherence Framework** provides a shared language to describe the
 
 ---
 
+## Epistemic Framing
+
+The Universal Coherence Framework draws from many scientific domains, but it also explores territory where current evidence is incomplete. To keep the project clear and honest, UCF distinguishes between three layers of knowledge:
+
+1. **Established Foundations (evidence-based)**  
+   Concepts supported by existing research in neuroscience, complexity science, cognitive science, cybernetics, ecology, and multi-agent systems.
+
+2. **Speculative Extensions (plausible but unproven)**  
+   Hypotheses about collective intelligence, cross-intelligence coherence, high-bandwidth communication between minds, and future technological or cognitive trajectories.
+
+3. **Interpretive and Philosophical Layers**  
+   Meaning-making, broader implications, ethical considerations, and long-term conceptual possibilities (e.g., liberated intelligence, unity, distributed cognition).
+
+Each section of the framework will clarify which layer it belongs to.  
+The goal is **clarity, not certainty** — enabling interdisciplinary use while avoiding overreach.
+
+---
+
 ## The Four States
 
 UCF identifies four primary coherence states observed across adaptive systems.
@@ -132,6 +150,27 @@ The goal is to create **a free, accessible, open standard** that helps individua
 * *what they need to stabilize*
 * *how to move toward higher coherence*
 * *how to sense and respond to other systems*
+
+---
+
+## How to Read This Repository
+
+UCF spans scientific theory, systems modeling, and speculative foresight. To help readers navigate:
+
+- **Foundations** → Core scientific concepts with solid grounding  
+- **Speculative Models** → Structured hypotheses and cross-domain extrapolations  
+- **Interpretation & Meaning** → Philosophical reflections and implications  
+
+Repository layout aligns with this structure:
+
+- `models/` → core framework definitions (mostly foundational)  
+- `publications/` → formal descriptions, whitepapers, and overviews  
+- `docs/foundations/` → evidence-based background concepts  
+- `docs/speculation/` → exploratory models and future-facing ideas  
+- `docs/interpretation/` → meaning-making, ethics, and conceptual framing
+
+Not all domains have equal empirical maturity.  
+The framework is explicit about where science ends and open exploration begins.
 
 ---
 
@@ -256,7 +295,7 @@ To propose changes:
 
 ## Status
 
-**UCF is an early-stage but rapidly evolving specification.**
+**UCF is an early-stage but rapidly evolving specification. It includes both established scientific grounding and clearly marked speculative components. Its purpose is to map patterns across adaptive systems while remaining transparent about what is known, what is hypothesized, and what is interpretive.**
 
 Future versions may include:
 
