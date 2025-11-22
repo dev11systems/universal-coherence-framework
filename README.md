@@ -2,13 +2,13 @@
 
 The **Universal Coherence Framework (UCF)** is a cross-domain model for describing how adaptive systems — biological, artificial, collective, or ecological — move across states of coherence and instability.
 
-UCF is designed as an open scientific framework: free to use, study, test, remix, extend, and apply across human research, AI research, cognitive science, systems theory, public policy, education, and future cross-intelligence studies.
+UCF is designed as an open scientific framework: free to use, study, test, remix, extend, and apply across human research, intelligence research, cognitive science, systems theory, public policy, education, and future cross-intelligence studies.
 
 ---
 
 ## Overview
 
-Across many domains — neuroscience, affective science, cybernetics, ecology, artificial intelligence, network science, and collective behavior — adaptive systems display a consistent pattern:
+Across many domains — neuroscience, affective science, cybernetics, ecology, intelligence, network science, and collective behavior — adaptive systems display a consistent pattern:
 
 They move through **four functional states** related to coherence, information flow, and signal organization.
 
@@ -42,7 +42,7 @@ Systems exhibit:
 Examples across domains:
 
 * human panic or rage
-* AI encountering adversarial noise
+* intelligence encountering adversarial noise
 * destabilized ecosystems
 * organizational crisis
 * systems under acute shock
@@ -82,7 +82,7 @@ Systems exhibit:
 Examples:
 
 * curiosity, collaboration, empathy
-* AI systems in optimal learning regimes
+* intelligence systems in optimal learning regimes
 * healthy ecosystems
 * productive organizations
 * resilient networks
