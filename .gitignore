@@ -1,0 +1,43 @@
+# .gitignore for Universal Coherence Framework (UCF)
+
+# OS-generated files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Logs
+
+*.log
+
+# Build / cache directories (if future tooling is added)
+
+.cache/
+build/
+dist/
+
+# Node-related (in case contributors run tools locally)
+
+node_modules/
+
+# Python-related (for simulations or tools)
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Editor folders
+
+.vscode/
+.idea/
+
+# Misc
+
+*~
+*.bak
