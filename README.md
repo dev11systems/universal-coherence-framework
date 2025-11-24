@@ -1,4 +1,5 @@
 # Universal Coherence Framework (UCF)
+**See also:** [Glossary](./docs/glossary.md)
 
 The **Universal Coherence Framework (UCF)** is a cross-domain model describing how adaptive systems — biological, artificial, collective, ecological, or cognitive — move through states of coherence and instability.
 
