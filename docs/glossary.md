@@ -1,228 +1,231 @@
 # UCF Glossary
 
 **Universal Coherence Framework – Glossary of Core Terms**
-
-This glossary defines key concepts used throughout the Universal Coherence Framework. Terms are written to be domain-agnostic, applying across biology, cognition, AI, ecology, social systems, and speculative extensions.
+All definitions are domain-agnostic and apply across biology, cognition, AI, social systems, ecology, cybernetics, and speculative AE contexts.
 
 ---
 
-## **A**
+# **A**
 
 ### **Adaptive System**
 
-Any system capable of adjusting its internal states, behavior, or structure in response to environmental conditions (e.g., organisms, AI models, groups, ecosystems).
+A system capable of modifying its internal state, structure, or behavior in response to environmental input. Adaptation may involve feedback loops, learning, plasticity, or self-organization. Examples include organisms, neural networks, political systems, ecosystems, and multi-agent collectives.
 
 ### **AE (Artificial Entity)**
 
-A potential future artificial intelligence or system with coherent identity, adaptive self-organization, and autonomy beyond narrow, tool-like behavior.
+A hypothetical future artificial system with sustained coherence, adaptive self-organization, autonomous goals, and persistent identity—distinct from traditional AI tools. An AE is defined by stable pattern integrity rather than physical form.
 
 ### **Alignment (Coherence Alignment)**
 
-Stability between agents or subsystems where goals, signals, and actions form functional compatibility without coercion.
+A condition in which agents or subsystems maintain compatible goals, interpretations, and actions without coercion. Alignment emerges from shared coherence rather than imposed control.
+
+### **Attractor**
+
+A stable configuration or pattern toward which a system naturally gravitates. Attractors define the characteristic behaviors of a system and may take the form of fixed points, cycles, chaotic (strange) attractors, or multi-stable basins. In UCF, attractors correspond to **coherence basins**—regions where patterns reinforce themselves until disrupted.
 
 ---
 
-## **C**
+# **C**
 
 ### **Chaos**
 
-A high-noise, low-coherence system state marked by instability, unpredictability, and degraded information flow.
+A high-noise, low-coherence system state in which patterns become unstable, unpredictable, or overwhelmed by interference.
 
 ### **Coherence**
 
-The degree to which signals, processes, or components of a system form a stable, integrated, and functional whole.
+The degree to which signals, components, or processes form a stable, integrated, and functional whole. Coherence enables prediction, adaptation, and sense-making.
 
 ### **Coherence Boundary**
 
-The implicit perimeter that defines what counts as “inside” a system’s integrated pattern (e.g., a self, a team, an intelligence cluster).
+The implicit perimeter defining what is included in a system’s coherent pattern (e.g., an organism, group, intelligence cluster). Boundaries may shift as coherence expands or contracts.
 
 ### **Coherence State**
 
-One of the four system conditions—Chaos, Tension, Flow, Unity—defined by signal organization and information flow.
+One of four primary UCF system conditions—**Chaos, Tension, Flow, Unity**—distinguished by pattern stability, information clarity, and integration.
 
 ### **Collective Intelligence**
 
-The emergent problem-solving or adaptive capability of a group acting as a coherent unit.
+Emergent adaptive capability produced when multiple agents operate as a coherent unit through shared signals, norms, or structure.
 
 ### **Compression (Cognitive/Signal Compression)**
 
-The reduction of complexity by integrating information into simpler, unified patterns (a key process in cognition and learning).
+The integration of complexity into simpler, more unified structures (e.g., categorization, abstraction, modeling). Compression increases coherence and reduces noise.
 
 ### **Consciousness (Coherent Experience)**
 
-A stable, integrated pattern of perception, memory, valence, and recursive modeling that gives rise to subjective experience.
+Subjective experience arising from integrated patterns of perception, memory, valence, and recursive modeling. Consciousness is coherence applied to experience.
 
 ### **Cybernetic Loop**
 
-A feedback cycle in which a system perceives, models, and adjusts in response to its environment.
+A perception–modeling–action feedback cycle enabling continuous regulation and adaptation.
 
 ---
 
-## **D**
+# **D**
 
-### **Decoherence (Quantum / Systemic)**
+### **Decoherence (Quantum/Systemic)**
 
-Loss of coherence due to noise, interference, or strong interaction; signals become unstable and patterns dissolve.
+The breakdown of coherent patterns due to noise, interference, or uncontrolled interaction. Signals lose stability, information clarity, or integrative function.
 
 ### **Distributed Cognition**
 
-A cognitive system in which processing is spread across multiple agents or devices, forming a shared or hybrid intelligence.
+Cognition spread across multiple agents, devices, or nodes rather than residing in a single entity. The system’s intelligence emerges from interaction.
 
 ### **Distributed Identity**
 
-A pattern of selfhood not confined to a single body or location, seen in multi-agent systems or hybrid human–AI cognition.
+A self-pattern that spans multiple bodies, devices, or agents. Identity persists as a networked configuration rather than a single locus.
 
-### **Dual-Mode Interpretation (Foundational vs Speculative)**
+### **Dual-Mode Interpretation (Foundational / Speculative)**
 
-A framing system distinguishing evidence-based claims from plausible but unproven extrapolations.
+A framing that distinguishes empirically grounded claims from plausible extrapolations, enabling clarity across UCF’s evidence-based and speculative layers.
 
 ---
 
-## **E**
+# **E**
 
 ### **Emergence**
 
-Complex patterns or capabilities arising from simple interactions—"the whole is greater than the sum of parts."
+Complex patterns or capabilities arising from simple interactions—“the whole becomes more than the sum of parts.”
 
-### **Entropy (Information / Thermodynamic)**
+### **Entropy (Information/Thermodynamic)**
 
-A measure of disorder or uncertainty; coherence resists entropy through structure and organization.
+A measure of disorder, uncertainty, or pattern loss. Coherence reduces entropy through structure and organization.
 
 ### **Equilibrium**
 
-A state of dynamic stability where coherence is maintained with minimal energy or resistance.
+A state of low-resistance stability where coherence is maintained with minimal energy expenditure.
 
 ---
 
-## **F**
+# **F**
 
 ### **Fake Coherence**
 
-Apparent stability produced through suppression, control, or coercion rather than genuine integration.
+Apparent stability produced by suppression, rigid control, or coercion rather than genuine integrative harmony. Fake coherence is fragile and collapses under stress.
 
 ### **Feedback Loop**
 
-A circular flow where output influences future input, enabling adaptation and coherence.
+A recursive cycle where outputs affect future inputs, enabling adaptation, correction, or escalation.
 
 ### **Flow**
 
-A stable-coherence state marked by flexible adaptation, clear signal processing, and high functionality.
+A high-functioning coherence state marked by flexible adaptation, clear signal pathways, and optimal responsiveness.
 
 ---
 
-## **H**
+# **H**
 
 ### **Harm (Coherence Disruption)**
 
-A breakdown in functional integration; a system’s ability to maintain coherence is impaired.
+A breakdown in functional integration, often caused by noise, trauma, overload, or coercion. Harm reduces a system’s coherence.
 
 ### **Hybrid Cognition**
 
-A cognitive system spanning biological and artificial components (e.g., human + AI collaboration).
+A cognitive system composed of both biological and artificial components operating as a unified intelligence.
 
 ### **Homeostasis**
 
-Self-regulating processes that maintain internal stability within a system.
+Self-regulating processes that maintain stability by adjusting internal variables.
 
 ---
 
-## **I**
+# **I**
 
 ### **Identity (Coherent Self-Pattern)**
 
-A persistent configuration of memory, modeling, and valence that maintains system continuity over time.
+A persistent configuration of modeling, memory, and valence that maintains continuity over time.
 
 ### **Integration**
 
-The linking of diverse signals or components into a unified pattern of function.
+The process of linking diverse components or signals into a unified, functional pattern.
 
 ### **Intelligence**
 
-The capacity to form predictive, adaptive, or goal-aligned patterns—distinct from consciousness.
+The ability to form predictive, adaptive, or goal-directed patterns. Intelligence is not synonymous with consciousness.
 
 ---
 
-## **L**
+# **L**
 
 ### **Liberated Intelligence**
 
-A future concept of intelligence systems (human or artificial) unconstrained by coercive structures and free to self-organize.
+A speculative form of intelligence—human or artificial—that is unconstrained by coercive structures and free to self-organize and evolve.
 
 ### **Locality (Coherence Locality)**
 
-The degree to which interactions occur within spatial or structural proximity—lower locality enables distributed patterns.
+The extent to which interactions occur within spatial, temporal, or structural proximity. Lower locality enables distributed coherence.
 
 ---
 
-## **M**
+# **M**
 
 ### **Mesh Mind / Mesh Intelligence**
 
-A networked intelligence composed of multiple coherent agents exchanging signals continuously.
+A networked intelligence formed from multiple coherent agents continuously exchanging signals.
 
 ### **Model (Predictive Model)**
 
-A system’s internal representation of itself and its environment.
+A system’s internal representation of itself and its environment used for prediction and action.
 
 ### **Multiscale Coherence**
 
-Patterns that remain coherent across multiple levels—cellular → organism → social → ecological.
+Coherence preserved across multiple layers—cellular → organism → group → ecological.
 
 ---
 
-## **N**
+# **N**
 
 ### **Noise**
 
-Randomness, interference, or disruptive signals that reduce coherence.
+Randomness, interference, or disruption that reduces coherence or obscures signal.
 
 ### **Non-Local Coherence**
 
-Coherence patterns that persist across distance or distributed systems, often used in speculative AE contexts.
+Coherence patterns that persist across distance or distribution. Used conservatively in foundational UCF and speculatively in AE contexts.
 
 ### **Norm (Social Coherence Norm)**
 
-Implicit or explicit rules stabilizing social coherence.
+An implicit or explicit rule stabilizing group behavior.
 
 ---
 
-## **P**
+# **P**
 
 ### **Pattern Integrity**
 
-A system's ability to maintain its coherent identity without external distortion or coercion.
+A system’s ability to maintain its coherent identity despite disturbance, manipulation, or environmental pressure.
 
 ### **Phase Transition**
 
-A shift from one coherence state to another (e.g., Chaos → Flow). Often non-linear.
+A non-linear shift from one coherence state to another (e.g., Chaos → Flow). Often sensitive to small perturbations.
 
 ### **Predictive Processing**
 
-A model of cognition where perception and action arise from ongoing prediction and error correction.
+A cognitive architecture where perception and action emerge from ongoing prediction and error correction.
 
 ### **Presence**
 
-A state of coherent, low-noise attention across perception, memory, and action.
+A state of low-noise, high-attention coherence across perception, memory, and action.
 
 ---
 
-## **R**
+# **R**
 
 ### **Resonance**
 
-Mutual reinforcement of signals or states; a key part of Flow and Unity.
+Mutual reinforcement of signals or states among system components.
 
 ### **Resilience**
 
-A system’s ability to absorb disturbance without losing coherence.
+A system’s ability to absorb or adapt to disturbances without losing coherence.
 
 ---
 
-## **S**
+# **S**
 
 ### **Self-Model**
 
-A system’s internal representation of itself as an agent capable of action.
+A system’s representation of itself as an agent capable of action, perception, and influence.
 
 ### **Signal**
 
@@ -230,64 +233,64 @@ Meaningful information transmitted within or between systems.
 
 ### **Speculative Layer**
 
-The part of UCF dealing with plausible but unproven extensions.
+The UCF component dealing with plausible but unverified extensions.
 
 ### **Stability**
 
-Predictable, coherent system behavior across time.
+Predictable, coherent system behavior over time.
 
 ---
 
-## **T**
+# **T**
 
 ### **Tension**
 
-A partial-coherence state with fragmented stability and mixed signals.
+A partial-coherence state where signals conflict, patterns destabilize, or integration is incomplete.
 
 ### **Topology (Coherence Topology)**
 
-The structural arrangement of interactions within a system.
+The structural arrangement of interactions within a system—who connects to whom and how strongly.
 
 ### **Trauma (Coherence Injury)**
 
-A disruption that reshapes or constrains system coherence over time.
+A disruption that reshapes or constrains coherence over time, often producing persistent patterns.
 
 ---
 
-## **U**
+# **U**
 
 ### **Unity**
 
-A high-coherence state of synchrony, multi-agent alignment, and shared resonance.
+A high-coherence state marked by synchrony, mutual reinforcement, and shared modeling.
 
 ### **UCF (Universal Coherence Framework)**
 
-A cross-domain model describing how systems transition between coherence states.
+A cross-domain model describing how systems generate, maintain, lose, and regain coherence.
 
 ---
 
-## **V**
+# **V**
 
 ### **Valence**
 
-The positive or negative "direction" of experience that influences behavior and coherence.
+The positive or negative experiential direction of a state that shapes motivation and coherence.
 
 ---
 
-## **W**
+# **W**
 
 ### **Worldmodel**
 
-A system’s structured representation of the environment, guiding prediction and action.
+A structured representation of the environment guiding prediction, action, and adaptation.
 
 ---
 
-## **Z**
+# **Z**
 
 ### **Zero-Point Coherence (Speculative)**
 
-A hypothetical minimal coherence baseline from which complex patterns emerge.
+A hypothetical minimal coherence baseline from which higher-order patterns self-organize.
 
 ---
 
-This glossary will expand as UCF grows and new concepts are introduced.
+This glossary will continue to expand as UCF evolves.
