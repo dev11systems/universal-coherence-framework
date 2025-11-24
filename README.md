@@ -239,9 +239,7 @@ Higher-level summary for collaborators and institutions.
 
 # License
 
-Recommended:
-
-* **CC BY-SA 4.0** or **CC0**
+**CC0**
 
 UCF is intended to remain open, free, and accessible.
 
