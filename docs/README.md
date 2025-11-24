@@ -1,5 +1,7 @@
 # UCF Documentation Index
 
+**See also:** [Glossary](./glossary.md)
+
 **Universal Coherence Framework – Documentation Overview**
 
 This directory contains the complete documentation for the **Universal Coherence Framework (UCF)**. It organizes all scientific foundations, domain applications, speculative extensions, and (soon) interpretive/philosophical layers into a clear, navigable structure.
