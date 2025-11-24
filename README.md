@@ -261,7 +261,7 @@ Submit via Issues, Pull Requests, or whitepapers.
 
 ---
 
-## Project Intent & Research Philosophy
+# Project Intent & Research Philosophy
 
 This framework is an early-stage, exploratory attempt to describe coherence, boundary dynamics, and signal–noise patterns across different types of systems. It is not a final theory, and it does not claim to unify physics, cognition, ecology, or society in any settled scientific sense.
 
