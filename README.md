@@ -261,6 +261,16 @@ Submit via Issues, Pull Requests, or whitepapers.
 
 ---
 
+## Project Intent & Research Philosophy
+
+This framework is an early-stage, exploratory attempt to describe coherence, boundary dynamics, and signal–noise patterns across different types of systems. It is not a final theory, and it does not claim to unify physics, cognition, ecology, or society in any settled scientific sense.
+
+The goal is to build a shared conceptual vocabulary that can be critiqued, tested, refined, or reinterpreted by others. This project values rigor, transparency, and intellectual humility. If any part is incomplete, incorrect, or speculative, it is openly acknowledged as such.
+
+This repository is collaborative by design. Critique, correction, and contributions—especially those that help formalize, test, or challenge the framework—are deeply welcome. The intent is not to declare answers but to create a space where interdisciplinary insights can converge and evolve.
+
+---
+
 # Status
 
 UCF is an evolving specification, combining established science with clearly marked speculation. Future versions may include:
