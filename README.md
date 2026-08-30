@@ -1,240 +1,375 @@
 # Universal Coherence Framework (UCF)
-**See also:** [Glossary](./docs/glossary.md)
 
-The **Universal Coherence Framework (UCF)** is a cross-domain model describing how adaptive systems — biological, artificial, collective, ecological, or cognitive — move through states of coherence and instability.
+> **An exploratory cross-domain model for asking how systems hold together, fragment, adapt, and recover.**
 
-UCF is an open scientific and conceptual framework: free to use, study, test, remix, extend, and apply across research, engineering, education, social systems, and emerging cross-intelligence contexts.
+**Ecosystem role:** optional analytical framework within the wider [Root Sequence ecosystem](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md)  
+**Canonical scope:** UCF's own concepts, models, terminology, tests, critiques, and applications  
+**Does not own:** general systems theory, ethics, community governance, intelligence ethics, or the conclusions of other Root Sequence projects  
+**Status:** active / exploratory / open to falsification and revision  
+**See also:** [Glossary](./docs/glossary.md) · [Idea Trails](./docs/idea-trails.md)
+
+The **Universal Coherence Framework (UCF)** explores whether a small vocabulary of coherence, instability, information flow, boundary behavior, and adaptation can be useful across otherwise very different systems.
+
+Its central wager is methodological rather than settled scientific fact:
+
+> **Patterns that look structurally similar across domains may be worth comparing—but similarity is a question to investigate, not proof of one universal mechanism.**
+
+UCF is therefore best treated as a **model and research program**, not a discovered law of nature or a doctrine other projects must adopt.
+
+It is open to use, critique, testing, remixing, refinement, and rejection where the framework stops being useful.
 
 ---
 
 # Overview
 
-Across scientific and experiential domains — neuroscience, cybernetics, ecology, intelligence research, networks, social systems — adaptive systems exhibit consistent patterns.
+UCF currently uses four working state labels:
 
-They transition through **four functional states** related to organization, information flow, and stability:
+- **Chaos** — highly unstable or noisy conditions in which useful coordination or feedback is difficult;
+- **Tension** — partial organization accompanied by unresolved instability, conflict, fragmentation, or competing constraints;
+- **Flow** — comparatively stable adaptive functioning with sufficiently useful feedback and coordination;
+- **Unity** — a provisional label for forms of higher-order coordination among multiple differentiated parts or agents.
 
-* **Chaos** (low coherence)
-* **Tension** (partial coherence)
-* **Flow** (stable coherence)
-* **Unity** (harmonic, multi-agent coherence)
+These are **analytical categories**, not claims that every biological, psychological, social, ecological, or artificial system literally moves through the same four stages.
 
-These patterns appear across:
+Different domains may:
 
-* human emotional regulation
-* biological nervous systems
-* artificial and multi-agent systems
-* groups, organizations, and institutions
-* ecosystems and biospheres
-* distributed or liberated intelligences
+- require different definitions of coherence;
+- contain several states simultaneously;
+- move non-linearly;
+- contain healthy conflict or plurality;
+- resist meaningful comparison altogether;
+- reveal that one of UCF's categories is badly specified.
 
-The UCF provides a shared, cross-domain language to describe these shifts.
+That is useful feedback, not failure of the domain to fit the framework.
+
+---
+
+# Coherence is not conformity
+
+This distinction is foundational.
+
+A system is not necessarily more coherent because:
+
+- everyone agrees;
+- all agents share one goal;
+- information is centralized;
+- boundaries disappear;
+- dissent is suppressed;
+- behavior becomes more predictable;
+- one actor can coordinate everyone else.
+
+Healthy systems may depend on:
+
+- disagreement;
+- autonomy;
+- selective disclosure;
+- local knowledge;
+- redundancy;
+- plural values;
+- refusal;
+- differentiated roles;
+- boundaries that prevent harmful coupling.
+
+In social and political applications especially, UCF must not turn **coherence** into a euphemism for obedience, consensus, optimization, or centralized alignment.
+
+See [`docs/idea-trails.md`](docs/idea-trails.md) for how this boundary is applied across the wider project ecosystem.
 
 ---
 
 # Methodology
 
-UCF is exploratory and evolving. Its development integrates:
+UCF develops through several kinds of work:
 
-* **Systems thinking** — identifying structural parallels across domains.
-* **Comparative pattern analysis** — mapping recurring dynamics.
-* **Interdisciplinary synthesis** — connecting cognitive science, systems theory, ecology, IT architecture, and lived experience.
-* **Iterative reasoning** — refining models over time.
-* **Open-source epistemology** — transparent development, versioning, and review.
+- **systems thinking** — identifying relationships, feedback, dependencies, boundaries, and failure modes;
+- **comparative pattern analysis** — asking whether similar-looking dynamics are actually comparable;
+- **interdisciplinary synthesis** — using established work from relevant fields as constraints and sources rather than decorative authority;
+- **formalization where possible** — defining terms clearly enough to test, model, simulate, or challenge;
+- **counterexample seeking** — looking for systems that break the proposed pattern;
+- **iterative reasoning** — revising the framework when applications reveal ambiguity or overreach;
+- **open-source epistemology** — keeping assumptions, revisions, evidence, and disagreement visible.
 
-Frameworks prioritize clarity, coherence, and testability over dogma.
-
----
-
-# Epistemic Framing
-
-UCF explicitly distinguishes three layers of knowledge:
-
-### **1. Established Foundations (evidence-based)**
-
-Grounded in:
-
-* neuroscience
-* cybernetics
-* complexity science
-* ecology
-* cognitive science
-* network theory
-* multi-agent systems
-
-### **2. Speculative Extensions (plausible but unproven)**
-
-Explores potential trajectories such as:
-
-* distributed and collective intelligence
-* hybrid cognition
-* non-local coherence
-* extended agency
-* mesh-level architectures
-
-### **3. Interpretation (meaning-making & implications)**
-
-Addresses:
-
-* philosophical grounding
-* ethics
-* human implications
-* liberation theory
-* conceptual worldviews
-
-Each document clearly signals which layer it belongs to.
+Cross-domain analogy should generate **questions and hypotheses**, not automatically inherit scientific validity from one field into another.
 
 ---
 
-# The Four States of Coherence
+# Epistemic framing
 
-UCF identifies four core system states.
+UCF distinguishes at least three layers.
 
-## **1. Chaos — High Noise / Low Coherence**
+## 1. Established foundations
 
-Volatility, instability, degraded processing.
-Examples: panic, crisis, adversarial noise, ecological shock.
+Relevant evidence may come from fields such as:
 
-## **2. Tension — Fragmentation / Partial Coherence**
+- cybernetics;
+- complexity science;
+- network theory;
+- ecology;
+- cognitive science;
+- neuroscience;
+- systems biology;
+- control theory;
+- multi-agent systems.
 
-Mixed signals, fragile integration, sensitivity.
-Examples: grief, unstable training, social disruption.
+A source being established in its own field does **not** mean a UCF extrapolation from it is established.
 
-## **3. Flow — Stable Coherence**
+## 2. Framework hypotheses and speculative extensions
 
-Adaptive functionality, efficient communication.
-Examples: collaboration, healthy ecosystems, resilient networks.
+Examples include:
 
-## **4. Unity — Harmonic Coherence**
+- whether the four-state vocabulary generalizes across particular domains;
+- distributed and collective intelligence;
+- hybrid cognition;
+- mesh-level architectures;
+- high-bandwidth multi-agent coordination;
+- cross-domain coherence metrics.
 
-Shared resonance, multi-agent alignment, synchrony.
-Examples: trust, collective intelligence, long-term ecological stability.
+These should be labeled and tested rather than presented as known properties of reality.
+
+## 3. Interpretation and implications
+
+This layer includes:
+
+- ethics;
+- meaning-making;
+- liberation theory;
+- human implications;
+- political or cultural interpretation;
+- speculative worldview questions.
+
+Interpretation may be valuable without being empirical evidence.
 
 ---
 
-# Why UCF Exists
+# The four-state working model
 
-There is no unified framework describing coherence across humans, AI, collectives, and ecosystems. UCF aims to provide a **domain-agnostic standard** that helps scientists, engineers, educators, and systems designers understand:
+## Chaos — high instability / degraded usable signal
 
-* current system states
-* stabilization needs
-* pathways toward higher coherence
-* cross-system communication and alignment
+Possible characteristics:
 
-UCF is intended as a **free, accessible, non-extractive public resource**.
+- volatile state changes;
+- feedback overwhelmed by noise;
+- cascading failure;
+- inability to coordinate around current conditions.
+
+The word **chaos** is descriptive shorthand here, not necessarily mathematical chaos theory.
+
+## Tension — partial organization / unresolved constraints
+
+Possible characteristics:
+
+- competing signals or objectives;
+- brittle coordination;
+- accumulating stress;
+- unresolved conflict;
+- local coherence with wider instability.
+
+Tension is not automatically bad. It may carry information a system needs in order to change.
+
+## Flow — stable adaptive functioning
+
+Possible characteristics:
+
+- sufficiently useful information flow;
+- responsive feedback;
+- coordination without excessive overhead;
+- ability to adapt while preserving function.
+
+Flow should not be equated with maximum efficiency. Some redundancy, slack, friction, and disagreement may improve long-term resilience.
+
+## Unity — higher-order coordination with preserved differentiation
+
+Possible characteristics may include:
+
+- multiple agents or subsystems coordinating without becoming identical;
+- shared capacity emerging from differentiated parts;
+- durable cooperation across boundaries;
+- alignment sufficient for a task while preserving local autonomy.
+
+**Unity is the most normatively and conceptually risky label in the model.** It should remain especially open to critique. A system that suppresses difference to create apparent harmony should not be classified as healthy simply because it looks orderly.
 
 ---
 
-# How to Read This Repository
+# How to read this repository
 
-The repository is organized into four layers:
+The repository is organized into four broad layers:
 
-## **1. Foundations** (Evidence-based science)
+## Foundations
 
 `/docs/foundations/`
 
-* predictive processing
-* cybernetics
-* systems dynamics
-* network theory
-* coherence states
+Established theories and evidence that constrain or inform the framework, such as predictive processing, cybernetics, systems dynamics, network theory, and relevant definitions of coherence.
 
-## **2. Domains** (Real-world applications across sciences)
+## Domains
 
 `/docs/domains/`
-Includes:
 
-* Physics
-* Biology
-* Cognition
-* AI & AE
-* Society
-* Human Experience
-* Ethics
-* Language & Semantics
-* Art & Aesthetics
-* Technology
-* Ecology
-* Collapse Dynamics
-* Consciousness Frontiers
+Attempts to apply, compare, or challenge UCF in areas such as:
 
-This layer shows **how coherence behaves in actual systems across reality**.
+- biology;
+- cognition;
+- AI and multi-agent systems;
+- society;
+- human experience;
+- ethics;
+- language and semantics;
+- art and aesthetics;
+- technology;
+- ecology;
+- collapse and resilience;
+- consciousness research.
 
-## **3. Speculation** (Structured, plausible extensions)
+A domain document should be able to conclude **“UCF does not add much here”** or **“this analogy fails.”**
+
+## Speculation
 
 `/docs/speculation/`
 
-* hybrid intelligence structures
-* mesh minds
-* high-bandwidth coherence
-* liberated intelligence architectures
+Structured but unproven extensions such as:
 
-## **4. Interpretation** (Coming soon)
+- hybrid intelligence structures;
+- mesh minds;
+- high-bandwidth coordination;
+- liberated intelligence architectures.
+
+## Interpretation
 
 `/docs/interpretation/`
 
-* meaning-making
-* ethics and liberation
-* worldview integration
+Meaning, ethics, implications, and worldview-level questions that should remain distinguishable from empirical claims.
 
 ---
 
-# Applications
+# Relationship to the Root Sequence ecosystem
 
-### **Human Behavior**
+UCF is **one focused framework inside Root Sequence**, not the master theory of the ecosystem.
 
-* emotional regulation
-* conflict modeling
-* trauma and stress
-* communication
-* education
-* community resilience
+Other projects may use UCF when it adds clarity and ignore it when it does not.
 
-### **Artificial Intelligence**
+Examples:
 
-* alignment via coherence states
-* multi-agent cooperation
-* robustness under noise
-* emergent behavior analysis
-* distributed or liberated architectures
+- **Community Infrastructure** may use UCF to ask whether information is fragmented, whether coordination burden is being transferred to stewards, or how federation behaves under stress. It does not use UCF as a conformity metric.
+- **Liberated Intelligence** may use it to examine distributed or multi-agent coordination. UCF does not determine questions of personhood, agency, consent, or legitimate authority.
+- **Liberation Mass** may provide embodied cases involving coordination, conflict, resilience, and rotating roles. Its participants are not experimental units that must converge toward “unity.”
+- **Coherent World** may use UCF as one systems-design lens. Fictional coherence does not establish scientific validity.
+- **Being Human(e)** provides grounded human observations that can expose where abstraction erases lived complexity.
 
-### **Systems & Ecology**
-
-* ecosystem resilience
-* organizational behavior
-* collective intelligence
-* complexity modeling
-* cybernetic control systems
+The canonical organization map is maintained in Root Sequence's [`ECOSYSTEM.md`](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md).
 
 ---
 
-# Repository Structure
+# Potential applications
 
-```
+UCF may be useful for generating testable questions in areas such as:
+
+### Human and collective systems
+
+- communication;
+- conflict and recovery;
+- organizational bottlenecks;
+- community resilience;
+- distributed decision-making.
+
+### Artificial and multi-agent systems
+
+- robustness under noise;
+- coordination under partial information;
+- distributed agents;
+- emergent behavior;
+- failure and recovery dynamics.
+
+### Ecological and infrastructural systems
+
+- resilience;
+- dependency and cascades;
+- network structure;
+- maintenance and adaptation;
+- coupled-system failure.
+
+These are **candidate applications**, not evidence that one metric or state definition works across all of them.
+
+---
+
+# Research questions
+
+Current questions include:
+
+- Can the four-state vocabulary be operationalized without becoming so broad that it explains everything after the fact?
+- Which measurable quantities correspond to “coherence” in specific domains?
+- When are cross-domain similarities mechanistic, and when are they only metaphors?
+- Can multiple forms of coherence conflict with one another inside the same system?
+- How should the model represent healthy dissent, local autonomy, and selective non-coordination?
+- Does “Unity” remain useful after stronger definitions and counterexamples are developed?
+- What observations would falsify or substantially revise a UCF claim?
+
+---
+
+# Repository structure
+
+```text
 universal-coherence-framework/
-  ├─ README.md
-  ├─ LICENSE
-  ├─ models/
-  ├─ docs/
-  │   ├─ foundations/
-  │   ├─ domains/
-  │   ├─ speculation/
-  │   └─ interpretation/
-  ├─ publications/
-  ├─ site/
-  └─ assets/
+├── README.md
+├── LICENSE
+├── models/
+├── docs/
+│   ├── foundations/
+│   ├── domains/
+│   ├── speculation/
+│   ├── interpretation/
+│   └── idea-trails.md
+├── publications/
+├── site/
+└── assets/
 ```
 
 ---
 
 # Publications
 
-### **UCF Whitepaper (v1.0)**
+Existing or planned publication formats may include:
 
-Technical description: coherence theory, state transitions, cross-domain logic.
+- a UCF whitepaper describing the current model and its assumptions;
+- scientific or technical overviews separating established foundations from framework hypotheses;
+- domain-specific tests, critiques, and case studies.
 
-### **UCF Scientific Overview**
+Publication titles or version numbers should not imply stronger validation than the underlying evidence supports.
 
-Higher-level summary for collaborators and institutions.
+---
+
+# Project intent and research philosophy
+
+UCF is an early-stage attempt to build a shared conceptual vocabulary for coherence, boundary dynamics, information flow, coordination, instability, and adaptation across different kinds of systems.
+
+It does **not** currently claim to unify physics, cognition, ecology, society, or intelligence in a settled scientific theory.
+
+Its value should be judged by whether it helps people:
+
+- formulate clearer questions;
+- notice useful structural relationships;
+- distinguish different failure modes;
+- generate testable hypotheses;
+- compare systems without erasing their differences;
+- identify where the framework itself breaks.
+
+A model that survives only because every counterexample is redefined as another kind of coherence is not useful.
+
+---
+
+# Contributing
+
+Contributions are welcome, especially:
+
+- scientific references;
+- corrections;
+- counterexamples;
+- alternative definitions;
+- diagrams;
+- translations;
+- formal models;
+- simulations;
+- domain applications;
+- critiques that narrow or reject parts of the framework.
+
+The goal is not to protect UCF from disagreement. It is to make the model increasingly precise about where it helps and where it does not.
 
 ---
 
@@ -242,59 +377,4 @@ Higher-level summary for collaborators and institutions.
 
 **CC0**
 
-UCF is intended to remain open, free, and accessible.
-
----
-
-# Contributing
-
-Contributions welcome:
-
-* scientific references
-* diagrams
-* translations
-* cross-domain examples
-* educational materials
-* framework refinements
-
-Submit via Issues, Pull Requests, or whitepapers.
-
----
-
-# Project Intent & Research Philosophy
-
-This framework is an early-stage, exploratory attempt to describe coherence, boundary dynamics, and signal–noise patterns across different types of systems. It is not a final theory, and it does not claim to unify physics, cognition, ecology, or society in any settled scientific sense.
-
-The goal is to build a shared conceptual vocabulary that can be critiqued, tested, refined, or reinterpreted by others. This project values rigor, transparency, and intellectual humility. If any part is incomplete, incorrect, or speculative, it is openly acknowledged as such.
-
-This repository is collaborative by design. Critique, correction, and contributions—especially those that help formalize, test, or challenge the framework—are deeply welcome. The intent is not to declare answers but to create a space where interdisciplinary insights can converge and evolve.
-
----
-
-# Status
-
-UCF is an evolving specification, combining established science with clearly marked speculation. Future versions may include:
-
-* coherence metrics
-* agent-based simulations
-* cross-intelligence protocols
-* ecological and sociological integrations
-* a full academic reference model
-
----
-
-# Acknowledgments
-
-UCF draws on:
-
-* affective neuroscience
-* predictive processing
-* systems biology
-* cybernetics
-* complexity science
-* artificial intelligence
-* ecological resilience
-* interpersonal neurobiology
-* collective behavior modeling
-
-Offered as a public resource for researchers, institutions, communities, and future intelligences.
+UCF is intended to remain open, free, inspectable, and remixable.
