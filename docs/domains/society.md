@@ -135,7 +135,40 @@ Conflict is not always destructive—it can be transformative.
 
 ---
 
-## 8. Economics as Flow-Based Coherence
+## 8. Collective Judgment: Coherence Is Not Conformity
+
+A group can appear coherent because everyone expresses the same conclusion while still containing suppressed uncertainty, social pressure, unrepresented perspectives, or unresolved conflict.
+
+UCF should distinguish at least three different processes:
+
+* **independent agreement** — agents arrive at similar conclusions through their own reasoning;
+* **adaptive convergence** — agents begin differently and update through evidence, explanation, or changed understanding;
+* **manufactured consensus** — visible agreement is produced by pressure, dominance, fatigue, information asymmetry, fear of conflict, or procedural incentives.
+
+The same final vote can hide very different internal states.
+
+Therefore:
+
+> **Visible agreement is not sufficient evidence of system coherence.**
+
+A heterogeneous group may remain coherent while preserving disagreement if:
+
+* information can move across differences;
+* uncertainty remains representable;
+* minority signals are not automatically discarded;
+* coercion and dominance are constrained;
+* the group can act without falsifying unresolved tension;
+* decisions can be revised when assumptions or conditions change.
+
+Persistent dissent is not automatically higher or lower coherence. It may represent error, incompatible goals, a missing variable, an excluded perspective, strategic obstruction, or a legitimate unresolved tension. Domain-specific evidence is required.
+
+This is especially important when UCF is applied to governance or institutional decision systems. **Coherence must not become a metric that rewards compliance.**
+
+Related broad systems analysis: `Root-Sequence/root-sequence/analysis/collective-judgment-and-manufactured-consensus.md`.
+
+---
+
+## 9. Economics as Flow-Based Coherence
 
 Economic systems stabilize patterns by managing flows of:
 
@@ -157,7 +190,7 @@ Technofeudalism represents a form of **fake coherence** sustained by:
 
 ---
 
-## 9. Culture as Distributed Sense-Making
+## 10. Culture as Distributed Sense-Making
 
 Culture is shared coherence across time:
 
@@ -174,7 +207,7 @@ It shapes identity, meaning, and belonging.
 
 ---
 
-## 10. Social Collapse and Renewal
+## 11. Social Collapse and Renewal
 
 Collapse occurs when:
 
@@ -195,7 +228,7 @@ Societies can rebuild new stable attractors.
 
 ---
 
-## 11. Summary (Short Version)
+## 12. Summary (Short Version)
 
 * Society is a large-scale coherence system.
 * Norms, institutions, and culture stabilize patterns.
@@ -203,6 +236,7 @@ Societies can rebuild new stable attractors.
 * Collective trauma disrupts coherence; healing restores it.
 * Cooperation emerges from mutual reinforcement.
 * Conflict reflects competing patterns.
+* Collective agreement can represent genuine convergence or manufactured conformity; UCF must not confuse the two.
 * Economies are flow-based coherence networks.
 * Culture encodes distributed meaning.
 * Collapse is breakdown; renewal is emergence.
