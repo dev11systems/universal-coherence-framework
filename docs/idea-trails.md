@@ -133,6 +133,40 @@ Being Human(e), Liberation Mass, and Community Infrastructure provide more groun
 
 ---
 
+## Collective Judgment, Dissent & False Coherence
+
+Possible analytical question:
+
+> Does visible agreement represent independent judgment or adaptive convergence, or has the decision process manufactured conformity by making dissent costly?
+
+Useful distinctions include:
+
+- independent agreement;
+- adaptive convergence through new evidence or understanding;
+- unresolved but functional plurality;
+- coordination without shared belief;
+- manufactured consensus through dominance, fatigue, pressure, or informational cascades;
+- disagreement that reveals a missing variable or excluded perspective;
+- disagreement that reflects genuinely incompatible goals or values.
+
+UCF can help map:
+
+- how information moves before and during deliberation;
+- where social or institutional power changes expressed judgment;
+- whether uncertainty remains representable;
+- whether minority signals remain available to the system;
+- whether an action can be revised when conditions or assumptions change.
+
+It must **not** infer that the majority is coherent and the minority is incoherent merely from vote distribution.
+
+Broad systems source: `Root-Sequence/root-sequence/analysis/collective-judgment-and-manufactured-consensus.md`.
+
+Grounded human treatment: `Root-Sequence/beinghumane-atlas/seeds/humane-collective-decision-architecture.md`.
+
+Community Infrastructure can test smaller real decision-process versions; Coherent World can explore civilizational-scale institutional versions; *No One Noticed* can show the lived experience.
+
+---
+
 ## Boundary
 
 UCF should make Idea Trails **more testable and explicit**, not more mystical or totalizing.
