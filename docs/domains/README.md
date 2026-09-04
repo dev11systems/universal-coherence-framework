@@ -69,7 +69,10 @@ Below are all current domain documents, each representing one facet of coherent 
 * norms, institutions, and power
 * collective trauma
 * conflict and cooperation
+* collective judgment, dissent, and manufactured consensus
 * economies as flow dynamics
+
+The Society domain now explicitly distinguishes **independent agreement**, **adaptive convergence**, and **manufactured consensus**. Visible agreement alone is not treated as sufficient evidence of coherence, and minority positions are not classified as incoherent merely because they are minority positions.
 
 ### **6. Human Experience**
 
